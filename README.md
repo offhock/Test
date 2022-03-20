@@ -65,4 +65,4 @@ ip link set up vcan0
 ```
 [참조 사이트](https://www.pragmaticlinux.com/2021/10/how-to-create-a-virtual-can-interface-on-linux/?msclkid=556e5514a77911ec86426dc010880a5f)
 
-
+[Python.can](https://python-can.readthedocs.io/en/master/interfaces/socketcan.html)
